@@ -2,6 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://etm-code.github.io/Group_37_HackTrinity_Frontend-/",
   "type": "module",
   "scripts": {
     "dev": "vite",
